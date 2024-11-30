@@ -3587,6 +3587,11 @@ font-family: "Merienda", cursive;
 	padding-top: 190px;
 }
 
+.advantages.about {
+	padding-top: 1px;
+	padding-bottom: 100px;
+}
+
 .advantages-items {
 	display: flex;
 	justify-content: center;
@@ -4595,7 +4600,7 @@ font-family: "Merienda", cursive;
 }
 
 .detail-block__item-info {
-	font-size: 16px;
+	font-size: 12px;
 	line-height: 170%;
 	color: #666666;
 	font-family: "Merienda", cursive;
@@ -4610,6 +4615,7 @@ p.form-text{
 	display: block;
 	margin-bottom: 1px;
 	font-family: "Merienda", cursive;
+	font-size: 14px;
 }
 
 .bread-crumbs {
@@ -4751,7 +4757,7 @@ p.form-text{
 }
 
 .discount-about {
-	padding: 191px 0;
+	padding: 100px 0;
 }
 
 .discount-about .discount-info {
@@ -9440,11 +9446,11 @@ input[type="search"]::-webkit-search-results-decoration {
 		margin-right: 25px;
 	}
 	.detail-block__item-info {
-		font-size: 16px;
+		font-size: 14px;
 		line-height: 22px;
 	}
 	.detail-block__item-info h6 {
-		font-size: 18px;
+		font-size: 16px;
 	}
 	.promo-video__decor {
 		display: none;
